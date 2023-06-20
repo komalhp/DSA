@@ -1,0 +1,44 @@
+
+h1{
+    color:blueviolet;
+    text-align: center;
+    cursor: pointer;
+}
+
+.container{
+    width:50%;
+    height: 400px;
+    border:1px solid red;
+    background-color: black;
+    color:white;
+    margin: auto;
+    border-radius: 20px;
+}
+
+
+body{
+    background-color:darkcyan;
+}
+#Name{
+    width: 99%;
+    margin-bottom: 20px;
+}
+#email{
+    width: 99%;
+    margin-bottom: 20px;
+}
+#Number{
+    width: 99%;
+    margin-bottom: 20px;
+}
+#Address{
+    width: 99%;
+    margin-bottom: 20px;
+}
+#submit{
+    width: 50%;
+    height: 30px;
+    margin-left: 165px;
+    cursor: pointer;
+
+}
